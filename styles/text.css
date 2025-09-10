@@ -1,0 +1,45 @@
+   .video-title {
+        font-family: Helvetica;
+        font-size: 30px;
+        font-weight: bold;
+        font-style: italic;
+        line-height: 32px;
+        width: 500px;
+        margin-bottom:0;
+        opacity: 0.8;
+    }
+    .video-stats {
+        font-family: Helvetica;
+        font-size: 17px;
+        margin-top: 2;
+        color: rgb(40, 35, 35);
+    }
+    .author {
+        font-family: Helvetica;
+        font-size:  17px;
+        margin-top: 5px;
+        color: rgb(40, 35, 35)
+    }
+    .paragraph {
+        font-family: Helvetica;
+        font-size: 17px;
+        color: rgb(40, 35, 35);
+        width: 450px;
+        line-height: 20px;
+    }
+    .apple-phara {
+        font-family: Helvetica;
+        font-size: 14px;
+        text-align: center;
+        background-color: rgb(227, 65, 64);
+        color: white;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        width: 450px;
+        transition: text-decoration 0.20s;
+
+    }
+    .asds:hover {
+        text-decoration: underline;
+        cursor: pointer;
+    }
